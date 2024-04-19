@@ -9,7 +9,7 @@ Week 1:
 | Number | Code of Student | DNI | Apellidos y Nombres | Link Github|
 | ------- | ------- | ------- | ------- | ------- |
 | 1      | 123456   | 87654321 | Fred Torres |  https://github.com/frdtorres/Teaching2024 |
-|        |          |          |        |      |
+| 2      | 214208   | 74642865 | Alex Cruz Accarapi  | https://github.com/alex-raul/curs_software_alex  |
 |        |          |          |        |      |
 |        |          |          |        |      |
 |        |          |          |        |      |
