@@ -37,3 +37,4 @@ Week 1:
 |20       |200804    |72687388  |Denilzon Robinho Tapara Tristan|https://github.com/DenilzonTaparaTristan/SIworks|
 |21      | 213915   | 70188630 |Cruz Paredes Soledad Epifania | https://github.com/soledad-cruz/Ing-de-software-I |
 |23      |214320   | 70390994 |Supo Ramos Alex Gilmar| https://github.com/alexgilmar/SOFWARE |
+|24      |214654   | 71980663 |Vilca Apaza Willy| https://github.com/willyvilca/ING.-SOFTWARE-1) |
